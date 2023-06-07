@@ -34,67 +34,121 @@
 #### GIT: Version Control
 
 • Introduction
+
 • Version control systems
+
 • Local, Centralized and distributed
+
 • Installing Git
+
 • Installing on Linux
+
 • Installing on Windows
+
 • Initial setup
+
 • Git essentials
+
 • Creating a repository
+
 • Cloning, checking-in and committing
+
 • Fetch, pull and remote
+
 • Branching
 
 #### Maven
 
 • Overview
+
 • Environment Setup
+
 • POM
+
 • Build Life Cycle
+
 • Build Profiles
+
 • Repositories
+
 • Plug-ins
+
 • Creating Project
+
 • Build & Test Project
+
 • External Dependencies
+
 • Build Automation
+
 • Manage Dependencies
+
 • Deployment Automation
+
 • Web Application
+
 • Eclipse IDE
+
 • Maven Plugin in Jenkins
 
 #### Docker – Containers
 
 • Introduction
+
 • What is a Docker
+
 • Use case of Docker
+
 • Platforms for Docker
+
 • Dockers vs Virtualization
+
 • Architecture
+
 • Docker Architecture.
-• Important Docker components
-• Understanding the Docker components
+
+  • Important Docker components
+  
+  • Understanding the Docker components
+  
 • Installation
-• Installing Docker on Linux.
-• Understanding Installation of Docker on Windows.
+
+  • Installing Docker on Linux.
+  
+  • Understanding Installation of Docker on Windows.
+  
 • Some Docker commands.
+
 • Provisioning
+
 • Docker Hub.
-• Downloading Docker images.
-• Running Docker images
-• Running commands in container.
-• Running multiple containers.
-• Custom images
-• Creating a custom image.
-• Running a container from the custom image.
-• Publishing the custom image.
+
+  • Downloading Docker images.
+  
+  • Running Docker images
+  
+  • Running commands in container.
+  
+  • Running multiple containers.
+  
+  • Custom images
+  
+  • Creating a custom image.
+  
+  • Running a container from the custom image.
+  
+  • Publishing the custom image.
+  
 • Docker Networking
+
 • Accessing containers
+
 • Linking containers
+
 • Exposing container ports
+
 • Container Routing
+
 • Docker Compose
 
 #### Puppet for configuration management
