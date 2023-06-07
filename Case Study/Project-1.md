@@ -1,4 +1,6 @@
-**Task:** You have been Hired Sr. DevOps Engineer in Abode Software. They want to implement DevOps Lifecycle in their company. You have been asked to implement this lifecycle as fast as possible.
+**Task:** You have been Hired Sr. DevOps Engineer in Abode Software. They want to implement DevOps Lifecycle in their company.
+
+You have been asked to implement this lifecycle as fast as possible.
 
 ABC Software’s is a product-based company
 
