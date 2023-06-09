@@ -107,15 +107,15 @@
 
 • Docker Architecture.
 
-  • Important Docker components
-  
-  • Understanding the Docker components
+    • Important Docker components
+    
+    • Understanding the Docker components
   
 • Installation
 
-  • Installing Docker on Linux.
-  
-  • Understanding Installation of Docker on Windows.
+    • Installing Docker on Linux.
+    
+    • Understanding Installation of Docker on Windows.
   
 • Some Docker commands.
 
@@ -123,21 +123,21 @@
 
 • Docker Hub.
 
-  • Downloading Docker images.
-  
-  • Running Docker images
-  
-  • Running commands in container.
-  
-  • Running multiple containers.
-  
-  • Custom images
-  
-  • Creating a custom image.
-  
-  • Running a container from the custom image.
-  
-  • Publishing the custom image.
+    • Downloading Docker images.
+    
+    • Running Docker images
+    
+    • Running commands in container.
+    
+    • Running multiple containers.
+    
+    • Custom images
+    
+    • Creating a custom image.
+    
+    • Running a container from the custom image.
+    
+    • Publishing the custom image.
   
 • Docker Networking
 
