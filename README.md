@@ -1,4 +1,4 @@
-## Course Outline - Be A Cloud Captain 
+## DevOps Boot Camp by #CloudCaptain 
 
 
 ### CONTENT
