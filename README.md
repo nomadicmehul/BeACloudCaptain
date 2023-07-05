@@ -54,3 +54,9 @@
 2. Q&A session to address any doubts or questions.
 3. Hands-on project to apply DevOps principles and tools to a real-world scenario.
 4. Presenting and sharing project outcomes with the group.
+
+---
+
+**Note: The agenda is customizable based on the audience's level of expertise and specific requirements.**
+
+Good luck with your DevOps Bootcamp! I hope it will be a great learning experience for all the participants.
