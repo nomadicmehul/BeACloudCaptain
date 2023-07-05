@@ -3,7 +3,7 @@
 
 ### CONTENT
 
-#### Introduction to DevOps
+#### Introduction to DevOps 
 
 • Define DevOps
 
@@ -52,40 +52,6 @@
 • Fetch, pull and remote
 
 • Branching
-
-#### Maven
-
-• Overview
-
-• Environment Setup
-
-• POM
-
-• Build Life Cycle
-
-• Build Profiles
-
-• Repositories
-
-• Plug-ins
-
-• Creating Project
-
-• Build & Test Project
-
-• External Dependencies
-
-• Build Automation
-
-• Manage Dependencies
-
-• Deployment Automation
-
-• Web Application
-
-• Eclipse IDE
-
-• Maven Plugin in Jenkins
 
 #### Docker – Containers
 
@@ -437,6 +403,8 @@
 • Kubernetes Users Tools
 
 • Configuring and Deploying an Application on Kubernetes
+
+#### Introduction to AWS | GCP | Azure
 
 #### Advanced DevOps (CI/CD Pipeline Automation)
 
