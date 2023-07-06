@@ -1,5 +1,5 @@
-# Workshop Title: Introduction to DevOps
-
+# Workshop Title: DevOps 101
+ 
 **Duration: 4 hours**
 
 ## Agenda:
