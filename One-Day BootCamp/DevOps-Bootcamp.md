@@ -53,3 +53,9 @@
 **Note: The agenda is customizable based on the audience's level of expertise and specific requirements.**
 
 Good luck with your DevOps Bootcamp! I hope it will be a great learning experience for all the participants.
+
+---
+
+We have gathered an extensive collection of resources covering Cloud, DevOps, and DevSecOps in our repository, [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain). It serves as a one-stop-shop for all your learning needs in these domains. 
+
+Explore the repository at [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) to access a wealth of valuable content. Whether you're a beginner or an experienced professional, you'll find resources tailored to your needs. 

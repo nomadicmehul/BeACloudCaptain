@@ -67,4 +67,13 @@
    - Recap of key takeaways from the workshop.
    - Open Q&A session to address participants' questions.
 
+---
+
 Note: The agenda is customizable based on the workshop duration and the audience's level of expertise. Feel free to adjust the topics and depth of coverage according to the needs of your participants.
+
+
+---
+
+We have gathered an extensive collection of resources covering Cloud, DevOps, and DevSecOps in our repository, [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain). It serves as a one-stop-shop for all your learning needs in these domains. 
+
+Explore the repository at [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) to access a wealth of valuable content. Whether you're a beginner or an experienced professional, you'll find resources tailored to your needs. 
