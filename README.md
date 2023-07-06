@@ -1,4 +1,4 @@
-# DevOps Bootcamp Workshop Agenda - General
+# DevOps Bootcamp Workshop Agenda - Template
 
 ## Day 1: Introduction to DevOps and Version Control
 1. What is DevOps and its significance in modern software development?
